@@ -1,6 +1,6 @@
 # PKU的数学大广场
 
---GITLAB上建立了[同名项目](https://gitlab.com/pku-math/plaza)--
+**GITLAB上建立了[同名项目](https://gitlab.com/pku-math/plaza)**
 感谢@pku-math , @82379
 
 目前我们采取的策略为：通过上方的issues提交自己的问题并解答别人的问题(能看到上面工具栏的issues标志吗)。
